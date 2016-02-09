@@ -2,3 +2,4 @@ node_modules
 .jshintrc
 build.js
 npm-debug.log
+config.js
